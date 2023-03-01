@@ -1,0 +1,30 @@
+.servicecrd{
+    background-color: black;
+   
+}
+.servicecrd:hover{
+    border: 1px solid aqua;
+    transition: .4s ;
+    
+}
+
+.serviceicon{
+    color: aqua;
+    font-size: 40px;
+    border: 2px solid rgb(63, 199, 223);
+    padding: 12px;
+    border-radius: 50px;
+}
+.btnstyle{
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    box-shadow: 5px 5px 40px aqua;
+    margin-top: 20px;
+}
+
+.btnstyle:hover{
+    background-color: aqua;
+    box-shadow: 5px 15px 30px aqua;
+    transition: .7s ease-out;
+}

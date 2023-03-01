@@ -1,0 +1,19 @@
+.imgabout{
+    height: 600px;
+    margin-left: 40px;
+}
+.textabout{
+    
+    box-shadow:5px 5px 40px rgb(120, 213, 241);
+    border-radius: 10px;
+}
+.skillword{
+    border-bottom: 3px solid rgb(87, 147, 155);
+}
+.skill{
+    
+    width: 190px;
+    border-radius: 20px;
+    background-color: rgb(85, 175, 168);
+    box-shadow: 10px 10px 20px rgb(64, 91, 95);
+}

@@ -1,0 +1,19 @@
+.img2{
+    height: 120px;
+}
+.projectimg{
+    border: 5px solid rgb(79, 180, 228);
+    border-radius: 30px;
+    box-shadow: 2px 2px 20px aqua;
+   
+    
+}
+.modalimg{
+    height: 250px;
+    width: 400px;
+    border-radius: 30px;
+    border: 1px solid aqua; 
+    
+    padding: 2px;
+
+}
